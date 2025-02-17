@@ -37,7 +37,7 @@
 
 ---
 
-<h3 >About me</h3>
+<h3 >Su di me</h3>
 
 <div align="center">
    
@@ -45,9 +45,7 @@
       
    Sono una persona curiosa e **determinata**, sempre alla ricerca di nuove sfide per crescere professionalmente. Mi piace lavorare in team, condividere conoscenze e imparare qualcosa di nuovo ogni giorno! 🚀
 
-   **Cose che adoro**: <sup>Development</sup> 🖥️, ~~gaming~~ 🎮, <sub>food</sub> 🍕 & *music* 🎶.
-
-   
+   **Cose che adoro**: <sup>Development</sup> 🖥️, ~~gaming~~ 🎮, <sub>food</sub> 🍕 & *music* 🎶.  
    
 </div>
 
