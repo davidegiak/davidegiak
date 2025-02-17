@@ -41,10 +41,13 @@
 
 <div align="center">
    
-   Da quando ho scritto le prime righe di codice, ho capito che il web development era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
+   Since I wrote my first lines of code, I knew web development was my path. I love <sup>transforming</sup> ideas into functional and intuitive interfaces, writing clean and optimized code.
       
-   Sono una persona curiosa e **determinata**, sempre alla ricerca di nuove sfide per crescere professionalmente. Mi piace ~~lavorare~~ in team, condividere conoscenze e imparare qualcosa di nuovo ogni giorno! 🚀
+   I am a curious and **determined** person, always looking for new challenges to grow professionally. I enjoy working in a team, sharing knowledge, and learning something new every day! 🚀
 
+   i'm in **love** with <sup>development</sup> 🖥️, ~~gaming~~ 🎮, <sub>food</sub> 🍕 & *music* 🎶.
+
+   
    
 </div>
 
