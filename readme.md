@@ -24,7 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  ![image](https://github.com/user-attachments/assets/16b74895-9ad6-4479-a7cf-395d9fd5e429)
-
-
+  <img src="https://github.com/user-attachments/assets/ec40fcc3-2bc3-4226-be82-2b63f3b50298" title="MySQL" alt="MySQL" width="50" height="50"/>
 </div>
