@@ -42,7 +42,7 @@
 <div align="center">
    
    <p align="center">
-      Da quando ho scritto le prime righe di codice, ho capito che il **web development** era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
+      Da quando ho scritto le prime righe di codice, ho capito che il __web development__ era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
    </p>
    
 </div>
