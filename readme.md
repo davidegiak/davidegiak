@@ -44,9 +44,9 @@
    <p align="center">
       Da quando ho scritto le prime righe di codice, ho capito che il web development era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
    </p>
-      Sono una persona curiosa e **determinata**, sempre alla ricerca di nuove sfide per crescere professionalmente. Mi piace lavorare in team, condividere conoscenze e imparare qualcosa di nuovo ogni giorno! 🚀
-   <p>
-   </p>
+      
+   Sono una persona curiosa e **determinata**, sempre alla ricerca di nuove sfide per crescere professionalmente. Mi piace lavorare in team, condividere conoscenze e imparare qualcosa di nuovo ogni giorno! 🚀
+
    
 </div>
 
