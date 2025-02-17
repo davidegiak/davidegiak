@@ -37,4 +37,10 @@
 
 ---
 
-<h3 color="yellow">About me</h3>
+<h3 >About me</h3>
+
+<div align="center">
+   <p>
+      Da quando ho scritto le prime righe di codice, ho capito che il web development era la mia strada. Amo trasformare idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
+   </p>
+</div>
