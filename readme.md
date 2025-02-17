@@ -42,7 +42,15 @@
 <div align="center">
    
    <p align="center">
-      Da quando ho scritto le prime righe di codice, ho capito che il __web development__ era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
+      Da quando ho scritto le prime righe di codice, ho capito che il web development era la mia strada. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
    </p>
    
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=claudiopatti&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopatti&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true&theme=radical" alt="GitHub Langs" height="170">
+
 </div>
