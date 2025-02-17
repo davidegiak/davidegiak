@@ -14,7 +14,9 @@
 
    <h1> Languages tools 🛠 </h1>
 <div align="center">
-   ![image](https://github.com/user-attachments/assets/5cf59cfa-9146-4cc3-b09a-88dc6df66607)
+
+   ![image](https://github.com/user-attachments/assets/34f131b7-9093-4b87-82b6-a939c01c3dc9)
+
 
    
 </div>
