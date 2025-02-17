@@ -4,7 +4,7 @@
 
    <h3> Davide 24 🧓 | Jr Full stack web developer 🖥️</h3>
    
-   <a href="www.linkedin.com/in/davide-di-giacomo2001/" target="_blank">
+   <a href="www.linkedin.com/in/davide-di-giacomo2001/" target="_blank">Linkedin<\a>
       
 </div>
 
