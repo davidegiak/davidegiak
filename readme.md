@@ -34,3 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/30164eb3-d760-4161-a357-fe9e670f8e3b" title="Laravel" alt="Laravel" height="50"/>
 </div>
+
+---
+
+<h3 color="yellow">About me</h3>
