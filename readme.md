@@ -6,7 +6,7 @@
    
    ### <div align="center">CONTATTI</div>
    <div align="center">
-      <a href="www.linkedin.com/in/davide-di-giacomo2001/" target="_blank">
+      <a href="https://www.linkedin.com/in/davide-di-giacomo2001/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>  
    </div>
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=claudiopatti&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopatti&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true&theme=radical" alt="GitHub Langs" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidegiak&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidegiak&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true&theme=radical" alt="GitHub Langs" height="170">
 
 </div>
