@@ -24,5 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/ed563e5f-1650-4a9c-b6cf-cd6152b4a5ba" title="Laravel" alt="Laravel" height="50"/>
+  <img src="https://github.com/user-attachments/assets/30164eb3-d760-4161-a357-fe9e670f8e3b" title="Laravel" alt="Laravel" height="50"/>
 </div>
