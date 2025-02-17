@@ -5,8 +5,13 @@
    <h3> Davide 24 🧓 | Jr Full stack web developer 🖥️</h3>
    
 </div>
+<div align="center">
 
----
+   <a href="www.linkedin.com/in/davide-di-giacomo2001/" target="_blank">
+      
+</div>
+
+
 
 <div align="center">
 
