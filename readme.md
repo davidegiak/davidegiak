@@ -1,6 +1,6 @@
 <div align="center">
 
-   <h3>Hi there and welcome to my github 🚀</h3>
+   <h3>Ciao a tutti e benvenuti sul mio Github 🚀</h3>
 
    <h3> Davide 24 🧓 | Jr Full stack web developer 🖥️</h3>
    
@@ -21,7 +21,7 @@
 
 ---
 
-   <h3> Languages & tools 🛠 </h3>
+   <h3> Linguaggi e strumenti 🛠 </h3>
    
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
@@ -41,11 +41,11 @@
 
 <div align="center">
    
-   Since I wrote my first lines of code, I knew web development was my path. I love <sup>transforming</sup> ideas into functional and intuitive interfaces, writing clean and optimized code.
+   Da quando ho scritto la mia prima linea di codice, ho subito capito che lo sviluppo web faceva per me. Amo <sup>trasformare</sup> idee in interfacce funzionali e intuitive, scrivendo codice pulito e ottimizzato.
       
-   I am a curious and **determined** person, always looking for new challenges to grow professionally. I enjoy working in a team, sharing knowledge, and learning something new every day! 🚀
+   Sono una persona curiosa e **determinata**, sempre alla ricerca di nuove sfide per crescere professionalmente. Mi piace lavorare in team, condividere conoscenze e imparare qualcosa di nuovo ogni giorno! 🚀
 
-   i'm in **love** with <sup>development</sup> 🖥️, ~~gaming~~ 🎮, <sub>food</sub> 🍕 & *music* 🎶.
+   **Cose che adoro**: <sup>Development</sup> 🖥️, ~~gaming~~ 🎮, <sub>food</sub> 🍕 & *music* 🎶.
 
    
    
