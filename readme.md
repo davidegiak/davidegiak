@@ -6,7 +6,6 @@
    
    ### <div align="center">CONTATTI</div>
    <div align="center">
-<!--       <a href="https://www.linkedin.com/in/davide-di-giacomo2001/" target="_blank"> -->
       l<h3> Linkedin in fase di riassestamento per hackeraggio<h3/>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>  
